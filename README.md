@@ -48,8 +48,6 @@ Implemented a classic programming challenge using Python.
 
 ### 📊 Data Handling & Analysis
 
-https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg
-
 Worked with datasets in Google Colab notebooks to explore data using Python.
 
 **Skills developed:**
@@ -62,7 +60,6 @@ Worked with datasets in Google Colab notebooks to explore data using Python.
 
 ### 🏦 Program Development (ATM Simulation)
 
-https://upload.wikimedia.org/wikipedia/commons/6/6a/Programming_code.jpg" width="400"/>
 
 Designed a simple interactive Python program simulating an ATM system.
 
@@ -79,8 +76,6 @@ Designed a simple interactive Python program simulating an ATM system.
 ---
 
 ### 🧪 Additional Practice Exercises
-
-https://upload.wikimedia.org/wikipedia/commons/1/1f/Algorithm_flowchart_example.svg
 
 Completed a range of coding exercises to strengthen skills.
 

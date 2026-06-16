@@ -26,6 +26,8 @@ Task:
 Loop through numbers 1–100
 Apply conditions for divisibility (3 = “fizz”, 5 = “buzz”, both = “fizzbuzz”)
 
+<img width="605" height="277" alt="image" src="https://github.com/user-attachments/assets/ca77ce1a-d08f-4094-8224-c1a53be81aa2" />
+
 Skills demonstrated:
 
 Logical thinking
